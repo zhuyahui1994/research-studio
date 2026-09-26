@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "研析台 Research Studio"
+message: "If you use this software in research or teaching, please cite the repository."
+type: software
+authors:
+  - name: "Research Studio Contributors"
+year: 2026
+license: MIT
+abstract: "A local-first Chinese research analysis workbench for survey, statistics, reporting, and defense preparation."

@@ -1,0 +1,14 @@
+{
+  "name": "研析台 Research Studio",
+  "short_name": "研析台",
+  "description": "本地优先的中文调研、统计分析、报告与答辩工作台",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#6d70ff",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
